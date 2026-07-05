@@ -13,6 +13,7 @@ https://piclume.app
 - Browser-first processing
 - Secure server fallback
 - No account required
+- Open product site: [https://piclume.app](https://piclume.app)
 
 ## Notes
 
