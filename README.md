@@ -7,9 +7,9 @@ https://piclume.app
 
 ## Features
 
-- Compress images
-- Convert JPG, PNG, WebP, HEIC and AVIF
-- Resize images
+- [Compress images](https://piclume.app/compress-image)
+- [Convert JPG, PNG, WebP, HEIC and AVIF](https://piclume.app/image-converter)
+- [Resize images](https://piclume.app/resize-image)
 - Browser-first processing
 - Secure server fallback
 - No account required
